@@ -6,6 +6,7 @@ module.exports = (req, res, next) => {
     next();
 };
 
+
 /* 
 ! CORS => Cross-Origin Resource Sharing
 !   - Uses additional HTTP headers to tell browsers to give a web app running at one origin access to selected resources from a different origin
